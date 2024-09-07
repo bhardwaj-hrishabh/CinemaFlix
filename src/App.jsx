@@ -1,10 +1,9 @@
+import { Body } from './Components/index'
 
 function App() {
 
   return (
-    <>
-      <h1 className={`text-3xl bg-red-900 underline`}>Heyyyy</h1>
-    </>
+    <Body/>
   )
 }
 
